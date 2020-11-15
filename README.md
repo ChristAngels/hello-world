@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi humans!
+Chris is here! I like peanuts and coffes.
